@@ -1,0 +1,1 @@
+Lushiact est une application web qui permet de voir les actualités lushoises de toutes catégories (musique, sport, gaming, réligion...) elle integre aussi une conversation instatanée 
